@@ -1,0 +1,42 @@
+export const sliderdata=[
+    {
+        id:1,
+        title:"Shawls",
+        img:"./pics/img1.jpg"
+    },
+    {
+        id:2,
+        title:"Bottom",
+        img:"./pics/img2.jpg"
+    },
+    {
+        id:3,
+        title:"Prints",
+        img:"./pics/img3.jpg"
+    },
+    {
+        id:4,
+        title:"LookBook",
+        img:"./pics/img4.jpg"
+    },
+    {
+        id:5,
+        title:"Summer",
+        img:"./pics/img5.jpg"
+    },
+    {
+        id:6,
+        title:" Winter",
+        img:"./pics/img6.jpg"
+    },
+    {
+        id:7,
+        title:"NewIn",
+        img:"./pics/img7.jpg"
+    },
+    {
+        id:8,
+        title:"MenWear",
+        img:"./pics/img8.jpg"
+    },
+]
